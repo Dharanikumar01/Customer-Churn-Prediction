@@ -154,32 +154,6 @@ Predict customer churn:
 python predict.py
 ```
 
----
-
-## 📷 Project Screenshots
-
-Add screenshots in the `images` folder and display them here.
-
-### Customer Churn Distribution
-
-```text
-images/churn_distribution.png
-```
-
-### Correlation Heatmap
-
-```text
-images/correlation_heatmap.png
-```
-
-### Model Comparison
-
-```text
-images/model_comparison.png
-```
-
----
-
 ## 🔮 Future Improvements
 
 - One-Hot Encoding for categorical features
